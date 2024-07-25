@@ -72,6 +72,7 @@
   flex-direction: column;
   gap: 20px;
   animation: opacity 0.35s linear forwards;
+  margin-bottom: 20px;
 }
 
 @keyframes opacity {
